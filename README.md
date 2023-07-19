@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Songyeonji
 - 👀 I’m interested in Developoment & Traveling & Drawing
 - 🌱 I’m currently learning REACT & NODE JS & JS & REACTNATIVE
-- 📫 I want to be an Android Developer & font-end Developer
+- 📫 I want to be an Android Developer & front-end Developer
 - 📞 email: dus3439@naver.com & dus3439@gmail.com 
 
 <!---
