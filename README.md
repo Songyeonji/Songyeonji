@@ -2,7 +2,8 @@
 - 👀 I’m interested in Developoment & Traveling & Drawing
 - 🌱 I’m currently learning REACT & NODE JS & JS & REACTNATIVE & SPRINGBOOT & JSP & Type Js 
 - 📫 I want to be an Android Developer & front-end Developer
-- 📞 email: dus3439@naver.com & dus3439@gmail.com 
+- 📞 email: dus3439@naver.com & dus3439@gmail.com
+- 010-5341-5982
 
 <!---
 Songyeonji/Songyeonji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
