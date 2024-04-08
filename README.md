@@ -17,7 +17,7 @@ You can click the Prev link to take a look at your changes.
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=songyeonji_)](https://velog.io/@songyeonji_/posts) 
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=songyeonji_)](https://github.com/songyeonji_/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=songyeonji_)](https://velog.io/@songyeonji_/posts) 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Songyeonji&show_icons=true&layout=compact&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Songyeonji&layout=compact&theme=tokyonight)
