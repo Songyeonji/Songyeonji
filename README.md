@@ -14,8 +14,10 @@ You can click the Prev link to take a look at your changes.
 <a href="https://pacific-crayon-a46.notion.site/11e8016498e3440f8fce9a5944e933e2" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="https://github.com/Songyeonji" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
 <a href="https://www.instagram.com/_yeon_j_i/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Instagram-a3669b?style=flat-square&logo=Instagram&logoColor=white"/></a>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=songyeonji_)](https://velog.io/@songyeonji_/posts) 
 
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=songyeonji_)](https://github.com/songyeonji_/velog-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Songyeonji&show_icons=true&layout=compact&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Songyeonji&layout=compact&theme=tokyonight)
