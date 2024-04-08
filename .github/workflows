@@ -1,1 +1,23 @@
+name: Update README with latest blog posts
 
+on:
+  schedule:
+    - cron: '0 * * * *' # 매 시간마다 실행
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Fetch the latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://velog.io/@songyeonji_/rss"
+          commit_message: "Updated README with the latest blog posts"
+      - name: Commit and push if changed
+        run: |
+          git config --global user.email "you@example.com"
+          git config --global user.name "Your GitHub Username"
+          git add README.md
+          git commit -m "Updated README with the latest blog posts" -a || echo "No changes to commit"
+          git push
