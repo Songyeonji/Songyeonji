@@ -10,7 +10,7 @@ Songyeonji/Songyeonji is a ✨ special ✨ repository because its `README.md` (t
 You can click the Prev link to take a look at your changes.
 --->
 
-<a href="https://pacific-crayon-a46.notion.site/3c3fd1d067a9477ca40f5507e9ac4143?pvs=4" target="_blank"><img src="https://img.shields.io/badge/About.me-696969?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="https://pacific-crayon-a46.notion.site/e77095ae96ea49c8a77265ed213d2f53" target="_blank"><img src="https://img.shields.io/badge/About.me-696969?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="https://pacific-crayon-a46.notion.site/11e8016498e3440f8fce9a5944e933e2" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="https://github.com/Songyeonji" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
 <a href="https://www.instagram.com/_yeon_j_i/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Instagram-a3669b?style=flat-square&logo=Instagram&logoColor=white"/></a>
