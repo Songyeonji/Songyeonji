@@ -35,10 +35,8 @@
   </a>
 </p>
 
-<h2>📊 GitHub Profile Summary</h2>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Songyeonji&theme=monokai" alt="GitHub Profile Summary" />
-</p>
+## 📈 Contribution Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Songyeonji&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🛠 Technical Skills
 
