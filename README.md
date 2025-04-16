@@ -13,9 +13,12 @@
 <a href="https://www.instagram.com/_yeon_j_i/?hl=ko"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://velog.io/@songyeonji_/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 
-## ✍️ Latest Blog Posts
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=songyeonji_)](https://velog.io/@songyeonji_/posts)
-
+<h2 >✍️ Latest Blog Posts</h2>
+<p align="center">
+  <a href="https://velog.io/@songyeonji_/posts">
+    <img src="https://velog-readme-stats.vercel.app/api?name=songyeonji_" alt="Velog's GitHub stats" />
+  </a>
+</p>
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -24,10 +27,16 @@
 </p>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Songyeonji&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Songyeonji&theme=radical&column=7&row=1&margin-w=15" alt="trophy" />
+  </a>
+</p>
 
-## 📊 GitHub Profile Summary
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Songyeonji&theme=monokai" alt="GitHub Profile Summary" />
+<h2>📊 GitHub Profile Summary</h2>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Songyeonji&theme=monokai" alt="GitHub Profile Summary" />
+</p>
 
 ## 🛠 Technical Skills
 
