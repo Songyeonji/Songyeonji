@@ -13,15 +13,15 @@
 <a href="https://www.instagram.com/_yeon_j_i/?hl=ko"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://velog.io/@songyeonji_/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 
+## ✍️ Latest Blog Posts
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=songyeonji_)](https://velog.io/@songyeonji_/posts)
+
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Songyeonji&show_icons=true&theme=radical" alt="GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Songyeonji&layout=compact&theme=radical" alt="Top Languages" height="165" />
 </p>
-
-## ✍️ Latest Blog Posts
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=songyeonji_)](https://velog.io/@songyeonji_/posts)
-
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Songyeonji&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
