@@ -1,4 +1,6 @@
-# 안녕하세요, 송연지입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="60" height="60" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SongYeonji.Github&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" width="100%" />
+</p>
 
 ## 🚀 About Me
 - 💻 프론트엔드 개발자!
