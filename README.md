@@ -3,8 +3,21 @@
 </p>
 
 ## 🚀 About Me
-- 💻 프론트엔드 개발자!
-- 🎨 개발, 여행, 그림에 관심이 많아요
+
+- 💻 프론트엔드 개발자, 사용성과 성능을 고려한 구조 설계를 즐깁니다.
+- 🎨 개발 외에도 여행과 그림을 즐기며, 시각적 표현에 강점이 있습니다.
+
+## 📌 Work
+
+#### 주식회사 세퍼드 (2025.02~)
+- 보안관제시스템 고도화 프로젝트 수행 (Electron 기반)
+- 하드코딩 → TypeScript 전환, Named Pipe 통신 개선, WebSocket 실시간 통신 적용
+- Electron 자동 업데이트 구현, UI/UX 설계 및 시스템 문서화 (지침서·매뉴얼 포함)
+
+#### 주식회사 마이렌 (2024.05~2024.11)
+- 관제 UI/UX 개선 및 실시간 시각화 구현 (React, Redux, lazy loading)
+- 사고 알림·지도 기반 위치 시각화, RESTful API 및 Firebase Hosting 기반 백엔드 연동
+- CI/CD 구축 및 알림/보고서 자동화 시스템 개발
 
 ## 📫 Contact Me
 - 📧 Email: dus3439@naver.com / dus3439@gmail.com
@@ -14,8 +27,10 @@
 <a href="https://github.com/Songyeonji"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.instagram.com/_yeon_j_i/?hl=ko"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://velog.io/@songyeonji_/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
+<a href="https://www.youtube.com/@%EC%86%A1%EC%97%B0%EC%A7%80-b8s"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://mud-scarecrow-3b7.notion.site/e77095ae96ea49c8a77265ed213d2f53?pvs=74"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
-<h2 >✍️ Latest Blog Posts</h2>
+<h2>✍️ Latest Blog Posts</h2>
 <p align="center">
   <a href="https://velog.io/@songyeonji_/posts">
     <img src="https://velog-readme-stats.vercel.app/api?name=songyeonji_" alt="Velog's GitHub stats" />
@@ -78,4 +93,3 @@
   ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
   ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
