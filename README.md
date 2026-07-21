@@ -24,7 +24,7 @@
   <a href="https://velog.io/@songyeonji_/posts">
     <img src="https://img.shields.io/badge/Tech_Blog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" />
   </a>
-  <a href="https://mud-scarecrow-3b7.notion.site/e77095ae96ea49c8a77265ed213d2f53?pvs=74">
+  <a href="https://mud-scarecrow-3b7.notion.site/1e66ab882f9c800ead1af47e43331726?source=copy_link">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.youtube.com/@%EC%86%A1%EC%97%B0%EC%A7%80-b8s">
